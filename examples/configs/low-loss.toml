@@ -1,0 +1,7 @@
+loss_pct = 0.5
+dup_pct = 0.2
+reorder_pct = 0.5
+delay_ms_mean = 10
+delay_ms_jitter = 3
+rate_limit_mbps = 100
+seed = 42

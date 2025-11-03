@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# build output
+build/
+*.o
+*.a
+*.out
+
+# runtime artifacts
+logs/
+results/*.csv
+results/*.png
+
+# binaries
+byte-bistro-server
+byte-bistro-client
+byte-bistro-server-gbn
+byte-bistro-client-gbn
+byte-bistro-server-sr
+byte-bistro-client-sr
+
+# python cache
+__pycache__/
+*.pyc

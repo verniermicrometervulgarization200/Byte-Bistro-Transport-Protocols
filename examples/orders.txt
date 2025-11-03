@@ -1,0 +1,5 @@
+ORDER 1 double-cheese,cola
+ORDER 2 fries,shake
+ORDER 3 nuggets,water
+ORDER 4 double-cheese,fries,cola
+ORDER 5 salad,tea
